@@ -1,7 +1,7 @@
 {
   "name": "mattertwo.com",
   "version": "0.0.1",
-  "homepage": "https://www.mattertwo.com",
+  "homepage": "https://mattertwo.github.io",
   "private": true,
   "dependencies": {
     "@emotion/react": "11.8.2",
